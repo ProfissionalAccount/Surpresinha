@@ -218,15 +218,15 @@ if(easter) {
 if(biggest == witch){
     alert(`Oii ${userName}! O seu tipo de bruxa seria a Bruxa Convencional. Ou seja aquela bruxa que mais vemos, em filmes e séries. Esse tipo obtem seus poderes por meio de estudos, escritas antigas e ensinamentos. Pode possuir qualquer tipo de magia, contanto que estude e cumpra os requisitos.
 
-    Ex.: As bruxas de Little Witch Academy.`)
+Ex.: As bruxas de Little Witch Academy.`)
 } else if(biggest == nat){
     alert(`Oii ${userName}! O seu tipo de bruxa seria a Bruxa Natural/Mística. Ou seja aquela bruxa que usa da energia do universo. Esse tipo obtem seus poderes por meio de pedras energizadas, contato com a energia natural. Pode possuir magias que envolvam o universo, sorte, o mundo ao seu redor.
 
-    Ex.: Cartomantes.`)
+Ex.: Cartomantes.`)
 } else if(biggest == druid){
     alert(`Oii ${userName}! O seu tipo de bruxa seria a Bruxa Druida. Ou seja aquela bruxa que usa das plantas e animais para usar magia. Esse tipo obtem seus poderes por meio da energia de plantas, animais e da natureza ao seu redor. Pode possuir poderes que envolvam a natureza no geral, podendo controlar algumas plantas, falar e se transformar em animais.
         
-    Ex.: Malévola.`)
+Ex.: Malévola.`)
 } else if(biggest == wizard){
     alert(`Oii ${userName}! O seu tipo de bruxa seria a Feiticeira. Ou seja aquela bruxa que recebe seus poderes pela família. Esse tipo obtem seus poderes por meio da sua linhagem mágica, não precisa de componentes, pois a magia nasceu dentro de si. Pode possuir qualquer magia, desde que seja herdada da sua família.
 
