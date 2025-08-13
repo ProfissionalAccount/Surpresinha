@@ -4,6 +4,7 @@ let witch = 0;
 let nat = 0;
 let druid = 0;
 let wizard = 0;
+let easter;
 
 alert("Bem-vinde ao quiz de que tipo de bruxa você é!!");
 userName = prompt("Mas antes do quiz, me diga seu nome");
@@ -179,7 +180,7 @@ switch (question){
 
 let arr = [witch, nat, druid, wizard]
 let biggest = 0;
-for (i = 0; i < arr.length; i++) {
+for (let i = 0; i < arr.length; i++) {
     if (arr[i] > biggest) {
         biggest = arr[i];
     }
@@ -232,3 +233,4 @@ Ex.: Malévola.`)
 
 Ex.: Harry Potter.`)
 }
+
